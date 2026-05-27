@@ -1,5 +1,12 @@
-## 🤓 Gabriel Borges Reinaldo
-**`Desenvolvedor Backend Python`**
+<div>
+  <img src="./banner.jfif" target="_blank">
+</div>
+<div align="center">
+  <h1>🤓 Gabriel Borges Reinaldo </h1>
+  <strong>Desenvolvedor Backend Python</strong>
+</div>
+<br>
+
 
 Estudante de Engenharia de Software com sólido domínio em **Python**, aplicando conceitos de **Programação Orientada a Objetos** e **Clean Code** para o desenvolvimento de aplicações robustas. Experiência na construção de **APIs RESTful** utilizando o framework **Flask**, integrando-as a bancos de dados **MySQL** através do **SQLAlchemy** para operações básicas de manipulação e consulta de dados. Possuo conhecimento teórico em **testes unitários (Pytest)** e vivência com **versionamento em Git/GitHub**. Atuo sob **metodologias ágeis (Scrum/Kanban)** e destaco-me pela **organização, resiliência, facilidade em trabalhar em equipe, curiosidade e vontade de aprender.** 
 
