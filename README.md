@@ -1,5 +1,5 @@
 <div>
-  <img src="./banner.jfif" target="_blank">
+  <img src="assets/banner.jfif" target="_blank">
 </div>
 <div align="center">
   <h1>🤓 Gabriel Borges Reinaldo </h1>
@@ -18,10 +18,32 @@ Estudante de Engenharia de Software com sólido domínio em **Python**, aplicand
 
 
 ## 🛠️ Linguagens e Ferramentas
-  <img align="left" alt="Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="left" alt="Flask" height="50" width="40" src="https://devicon-website.vercel.app/api/flask/original-wordmark.svg?color=%23FFFFFF">
-  <img align="left" alt="MySQL" height="50" width="40" src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg">
-  <img align="left" alt="Python" height="50" width="40" src="https://devicon-website.vercel.app/api/git/original.svg">
-  <img align="left" alt="Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="left" alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="left" alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>Backend</b><br>
+        <img align="left" alt="Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        <img align="left" alt="Flask" height="50" width="40" src="https://devicon-website.vercel.app/api/flask/original-wordmark.svg?color=%23FFFFFF">
+      </td>
+      <td align="center">
+        <b>Dados</b><br>
+        <img align="left" alt="MySQL" height="50" width="40" src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Frontend</b><br>
+        <img align="left" alt="Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img align="left" alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img align="left" alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      </td>
+      <td align="center">
+        <b>Ferramentas</b><br>
+        <img align="left" alt="Git" height="50" width="40" src="https://devicon-website.vercel.app/api/git/original.svg">
+      </td>
+  </table>
+</div><br>
+
+
+  
