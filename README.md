@@ -60,17 +60,13 @@ Estudante de Engenharia de Software com sólido domínio em **Python**, aplicand
         <h2 align="center"><a href="https://github.com/gabriel-b-r/tcc-tradutor-libras-prototipo" target="_blank">Protótipo Tradutor de Libras para Português (TCC)</a></h2>
         <p>Sistema de reconhecimento e categorização de Configurações de Mãos da Libras em tempo real, protótipo de tradutor de Libras para Português desenvolvido como Trabalho de Conclusão de Curso.</p>
         <div align="center">
-          <img height="300" width="400"  src="assets/resultado.gif" target="_blank">
+          <img src="assets/resultado.gif" target="_blank">
         </div>
         <ul>
-          <li><b>Objetivo:</b> Desenvolver sistema de visão computacional para reconhecer em tempo real configurações de 
-mão da Libras via câmera, com foco em acessibilidade digital.</li>
-          <li><b>Implementação:</b> Projeto realizado em 4 fases — coleta de imagens, criação da base de dados, treino do 
-modelo e reconhecimento em tempo real. </li>
+          <li><b>Objetivo:</b> Desenvolver sistema de visão computacional para reconhecer em tempo real configurações de mão da Libras via câmera, com foco em acessibilidade digital.</li>
+          <li><b>Implementação:</b> Projeto realizado em 4 fases — coleta de imagens, criação da base de dados, treino do modelo e reconhecimento em tempo real. </li>
           <li><b>Tecnologias:</b> Python, MediaPipe, Scikit-learn, OpenCV, NumPy, Pickle, OS. </li>
-          <li><b>Resultados:</b> Protótipo funcional validado em ambiente acadêmico, demonstrando viabilidade técnica e 
-servindo como base para sistemas de tradução automática de sinais através dos 5 parâmetros da 
-linguagem. </li>
+          <li><b>Resultados:</b> Protótipo funcional validado em ambiente acadêmico, demonstrando viabilidade técnica e servindo como base para sistemas de tradução automática de sinais através dos 5 parâmetros da linguagem. </li>
           <li><b>Repositório:</b> <a href="https://github.com/gabriel-b-r/tcc-tradutor-libras-prototipo" target="_blank">https://github.com/gabriel-b-r/tcc-tradutor-libras-prototipo</a></li>
         </ul>
       </td>
