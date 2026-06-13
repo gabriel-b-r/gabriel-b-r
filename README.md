@@ -52,7 +52,6 @@ Estudante de Engenharia de Software com sólido domínio em **Python**, aplicand
 
 
 ## 🏗️ Projetos Relevantes
-
 <div align="center">
   <table>
     <tr>
@@ -68,6 +67,20 @@ Estudante de Engenharia de Software com sólido domínio em **Python**, aplicand
           <li><b>Tecnologias:</b> Python, MediaPipe, Scikit-learn, OpenCV, NumPy, Pickle, OS. </li>
           <li><b>Resultados:</b> Protótipo funcional validado em ambiente acadêmico, demonstrando viabilidade técnica e servindo como base para sistemas de tradução automática de sinais através dos 5 parâmetros da linguagem. </li>
           <li><b>Repositório:</b> <a href="https://github.com/gabriel-b-r/tcc-tradutor-libras-prototipo" target="_blank">https://github.com/gabriel-b-r/tcc-tradutor-libras-prototipo</a></li>
+        </ul>
+      </td>
+      <td>
+        <h2 align="center"><a href="https://github.com/gabriel-b-r/gerenciador-tarefas" target="_blank">API REST To-Do Profissional 
+</a></h2>
+        <p>API REST para gerenciamento de tarefas (Tasks), permitindo operações completas de CRUD.</p>
+        <div align="center">
+          <img src="https://github.com/user-attachments/assets/e654d4ae-e6c3-4c57-98b1-36fe0ba166da" />
+        </div>
+        <ul>
+          <li><b>Objetivo:</b> Desenvolver uma API REST para gerenciamento de tarefas inspirada em aplicações corporativas, aplicando arquitetura em camadas, persistência de dados relacional e boas práticas de engenharia de software para criar uma solução organizada, escalável e de fácil manutenção. </li>
+          <li><b>Resultados:</b> Desenvolvimento de uma aplicação com operações completas de CRUD, integração com PostgreSQL via SQLAlchemy, documentação da API e containerização com Docker. </li>
+          <li><b>Tecnologias:</b> Python, Flask, PostgreSQL, SQLAlchemy, Docker, Docker Compose, python-dotenv. </li>
+          <li><b>Repositório:</b> <a href="https://github.com/gabriel-b-r/gerenciador-tarefas" target="_blank">https://github.com/gabriel-b-r/tcc-tradutor-libras-prototipo</a></li>
         </ul>
       </td>
     </tr>
