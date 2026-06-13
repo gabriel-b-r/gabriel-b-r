@@ -74,7 +74,7 @@ Estudante de Engenharia de Software com sólido domínio em **Python**, aplicand
 </a></h2>
         <p>API REST para gerenciamento de tarefas (Tasks), permitindo operações completas de CRUD.</p>
         <div align="center">
-          <img src="https://github.com/user-attachments/assets/e654d4ae-e6c3-4c57-98b1-36fe0ba166da" />
+          <img src="https://github.com/user-attachments/assets/c8609b1d-393d-45a4-8dc5-362facdf796f"/>
         </div>
         <ul>
           <li><b>Objetivo:</b> Desenvolver uma API REST para gerenciamento de tarefas inspirada em aplicações corporativas, aplicando arquitetura em camadas, persistência de dados relacional e boas práticas de engenharia de software para criar uma solução organizada, escalável e de fácil manutenção. </li>
